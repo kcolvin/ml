@@ -15,6 +15,8 @@ Week 3:
 - Module 7: Loading/Saving data to AWS S3
 - Module 8: Scaling data
 - Module 9: Cross Validation
-- Module 10: Gradient Boosting & XGBoost
 
 Week 4:
+- Module 10: Data preparation for classifcation algorithms
+- Module 11: Introduction to classification using Logistic Regression
+- Module 12: Algorithms: Gradient Boosting & XGBoost
