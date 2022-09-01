@@ -13,10 +13,20 @@ Week 2:
 
 Week 3:
 - Module 7: Loading/Saving data to AWS S3
-- Module 8: Scaling data
+- Module 8: Scaling data (Lab: use the SGD algorithm)
 - Module 9: Cross Validation
 
 Week 4:
-- Module 10: Data preparation for classifcation algorithms
+- Module 10: Data preparation for classification algorithms
 - Module 11: Introduction to classification using Logistic Regression
 - Module 12: Algorithms: Gradient Boosting & XGBoost
+
+Week 5:
+- Module 13: Pipeline and ColumnTransformer Workflow
+- Module 14: Multiclass Classification using SVM
+- Module 15: Introduction to Training and Inference instances in SageMaker
+
+Week 6:
+- Module 16: Tentative: More on Model Evaluation (metrics)
+- Module 17: Tentative: Unsupervised Learning: Clustering
+- Module 18: Tentative: The next steps using SageMaker on AWS
