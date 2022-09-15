@@ -27,7 +27,7 @@ Week 5:
 - Module 15: Introduction to Training and Inference instances in SageMaker
 
 Week 6:
-- Module 16: Principle Component Analysis
+- Module 16: Principal Component Analysis
 - Module 17: More on Model Evaluation (metrics)
 - Module 18: Clustering with KMeans (Unsupervised Machine Learning)
 - Module 19: Introduction to Multi Layer Perceptron
