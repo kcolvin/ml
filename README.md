@@ -27,6 +27,7 @@ Week 5:
 - Module 15: Introduction to Training and Inference instances in SageMaker
 
 Week 6:
-- Module 16: Tentative: More on Model Evaluation (metrics)
-- Module 17: Tentative: Unsupervised Learning: Clustering
-- Module 18: Tentative: The next steps using SageMaker on AWS
+- Module 16: Principle Component Analysis
+- Module 17: More on Model Evaluation (metrics)
+- Module 18: Clustering with KMeans (Unsupervised Machine Learning)
+- Module 19: Introduction to Multi Layer Perceptron
